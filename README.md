@@ -1,7 +1,7 @@
 ## Welcome to my page 👋
 
 Hi, my name is Ha Van Loc. I graduated from Ho Chi Minh University of Technology, majoring in Business Administration (School of Industrial Management).  
-I am currently working as an Operations Coordinator in the Demand Generation industry. I’m passionate about the data world — how it shapes our answers to business questions and helps uncover actionable insights.
+I am currently working as an Operations Coordinator - Data Management Specialist in the Demand Generation industry. I’m passionate about the data world — how it shapes our answers to business questions and helps uncover actionable insights.
 
 📫 Feel free to connect with me via:
 
